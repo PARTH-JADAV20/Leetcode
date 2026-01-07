@@ -1,20 +1,15 @@
 class Solution {
 public:
     vector<int> getRow(int rowIndex) {
-        vector<vector<int>> ans;
-
-        for(int i = 0; i <= rowIndex; i++){
-            vector<int> temp;
-            temp.push_back(1);
-
-            if (i > 0) {
-                for (int j = 0; j < ans[i - 1].size() - 1; j++) {
-                    temp.push_back(ans[i - 1][j] + ans[i - 1][j + 1]);
-                }
-                temp.push_back(1);  
+        vector<int> res = {1};
+        for (int i = 0; i < rowIndex; i++) {
+            vector<int> nextRow(res.size() + 1, 0);
+            for (int j = 0; j < res.size(); j++) {
+                nextRow[j] += res[j];
+                nextRow[j + 1] += res[j];
             }
-            ans.push_back(temp);
+            res = nextRow;
         }
-        return ans[rowIndex];
+        return res;
     }
 };
