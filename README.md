@@ -172,4 +172,16 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
