@@ -177,6 +177,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | ------- | ------- |
 | [0292-nim-game](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
+| [0754-reach-a-number](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0754-reach-a-number/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +194,8 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0754-reach-a-number](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0754-reach-a-number/) | Medium |
 <!---LeetCode Topics End-->
