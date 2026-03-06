@@ -176,6 +176,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0292-nim-game](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [0754-reach-a-number](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0754-reach-a-number/) | Medium |
