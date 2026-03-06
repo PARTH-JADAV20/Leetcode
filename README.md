@@ -177,6 +177,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
+| [0223-rectangle-area](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0223-rectangle-area/) | Medium |
 | [0292-nim-game](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0292-nim-game/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
@@ -210,4 +211,8 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0223-rectangle-area](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0223-rectangle-area/) | Medium |
 <!---LeetCode Topics End-->
