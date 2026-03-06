@@ -130,6 +130,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0228-summary-ranges](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0228-summary-ranges/) | Easy |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
