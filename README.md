@@ -216,6 +216,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
+| [1009-complement-of-base-10-integer](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1009-complement-of-base-10-integer/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
