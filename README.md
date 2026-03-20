@@ -279,15 +279,18 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0203-remove-linked-list-elements](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0382-linked-list-random-node](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0382-linked-list-random-node/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
