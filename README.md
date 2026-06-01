@@ -131,6 +131,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0228-summary-ranges](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0228-summary-ranges/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -159,6 +160,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -226,6 +228,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -298,6 +301,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
