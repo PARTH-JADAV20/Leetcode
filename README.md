@@ -145,6 +145,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [1980-find-unique-binary-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2126-destroying-asteroids](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2751-robot-collisions](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
@@ -236,6 +237,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -417,4 +419,12 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 <!---LeetCode Topics End-->
