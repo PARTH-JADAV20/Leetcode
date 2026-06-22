@@ -163,6 +163,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -267,6 +268,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Sorting
@@ -344,6 +346,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | ------- | ------- |
 | [0754-reach-a-number](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0754-reach-a-number/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
