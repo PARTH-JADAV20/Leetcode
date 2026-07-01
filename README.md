@@ -157,6 +157,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [2574-left-and-right-sum-differences](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -210,6 +211,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -309,6 +311,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Counting
@@ -359,10 +362,12 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0754-reach-a-number](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0754-reach-a-number/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -460,6 +465,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
