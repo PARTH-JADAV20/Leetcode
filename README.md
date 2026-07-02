@@ -164,6 +164,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -216,6 +217,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -312,6 +314,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Counting
@@ -363,6 +366,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,6 +474,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -532,4 +537,8 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
