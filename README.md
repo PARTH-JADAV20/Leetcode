@@ -135,6 +135,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -206,6 +207,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -405,6 +407,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
