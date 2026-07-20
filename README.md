@@ -335,6 +335,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [0743-network-delay-time](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -391,6 +392,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
+| [0743-network-delay-time](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -399,6 +401,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
+| [0743-network-delay-time](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -527,6 +530,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -599,6 +603,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
