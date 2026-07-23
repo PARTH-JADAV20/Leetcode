@@ -177,6 +177,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
@@ -377,6 +378,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -441,6 +443,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0371-sum-of-two-integers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Geometry
