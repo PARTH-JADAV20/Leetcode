@@ -134,6 +134,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0435-non-overlapping-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [1260-shift-2d-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
@@ -322,6 +323,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0435-non-overlapping-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -369,6 +371,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0371-sum-of-two-integers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
 | [0372-super-pow](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0372-super-pow/) | Medium |
 | [0382-linked-list-random-node](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0382-linked-list-random-node/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0754-reach-a-number](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0754-reach-a-number/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
