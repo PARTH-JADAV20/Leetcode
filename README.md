@@ -546,6 +546,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0143-reorder-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0382-linked-list-random-node](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0382-linked-list-random-node/) | Medium |
+| [0707-design-linked-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -596,6 +597,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0707-design-linked-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 | [1622-fancy-sequence](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
