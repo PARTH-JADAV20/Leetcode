@@ -220,6 +220,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -274,6 +275,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -505,6 +507,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [2573-find-the-string-with-lcp](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -562,6 +565,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
