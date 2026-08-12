@@ -131,6 +131,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0228-summary-ranges](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0228-summary-ranges/) | Easy |
+| [0318-maximum-product-of-word-lengths](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0318-maximum-product-of-word-lengths/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0486-predict-the-winner](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
@@ -256,6 +257,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
+| [0318-maximum-product-of-word-lengths](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0318-maximum-product-of-word-lengths/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0434-number-of-segments-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
@@ -492,6 +494,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0318-maximum-product-of-word-lengths/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
