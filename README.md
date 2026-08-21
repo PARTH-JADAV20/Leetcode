@@ -131,6 +131,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
+| [0049-group-anagrams](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0228-summary-ranges](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0228-summary-ranges/) | Easy |
 | [0318-maximum-product-of-word-lengths](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0318-maximum-product-of-word-lengths/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
@@ -266,6 +267,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
+| [0049-group-anagrams](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0318-maximum-product-of-word-lengths/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0434-number-of-segments-in-a-string/) | Easy |
@@ -327,6 +329,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
+| [0049-group-anagrams](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
@@ -357,6 +360,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
