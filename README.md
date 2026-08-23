@@ -513,6 +513,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0372-super-pow](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0372-super-pow/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -520,6 +521,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0318-maximum-product-of-word-lengths](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0318-maximum-product-of-word-lengths/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1009-complement-of-base-10-integer/) | Easy |
