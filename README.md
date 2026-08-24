@@ -475,6 +475,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [0743-network-delay-time](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
@@ -691,6 +692,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -698,6 +700,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Trie
@@ -776,4 +779,8 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
