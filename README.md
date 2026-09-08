@@ -137,6 +137,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0435-non-overlapping-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0486-predict-the-winner](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+| [0525-contiguous-array](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
@@ -333,6 +334,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0037-sudoku-solver](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0525-contiguous-array](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
@@ -585,6 +587,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [1140-stone-game-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
