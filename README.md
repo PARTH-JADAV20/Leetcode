@@ -495,6 +495,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
@@ -705,6 +706,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -715,6 +717,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
