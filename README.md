@@ -143,6 +143,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0874-walking-robot-simulation](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1052-grumpy-bookstore-owner/) | Medium |
 | [1140-stone-game-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
@@ -576,6 +577,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1052-grumpy-bookstore-owner/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
