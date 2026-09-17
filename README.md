@@ -140,6 +140,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0525-contiguous-array](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -371,6 +372,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
