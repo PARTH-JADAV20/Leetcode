@@ -145,6 +145,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0877-stone-game](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1052-grumpy-bookstore-owner/) | Medium |
+| [1122-relative-sort-array](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [1140-stone-game-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
@@ -339,6 +340,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0525-contiguous-array](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [0621-task-scheduler](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
+| [1122-relative-sort-array](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -374,6 +376,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0628-maximum-product-of-three-numbers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1122-relative-sort-array](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -735,6 +738,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1122-relative-sort-array](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Merge Sort
@@ -816,4 +820,12 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
