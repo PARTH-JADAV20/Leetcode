@@ -489,6 +489,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0098-validate-binary-search-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0226-invert-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
@@ -718,6 +719,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0100-same-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0226-invert-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
@@ -731,6 +733,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0100-same-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0226-invert-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
