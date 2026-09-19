@@ -499,6 +499,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0365-water-and-jug-problem](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0743-network-delay-time](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1302-deepest-leaves-sum/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3310-remove-methods-from-project/) | Medium |
@@ -514,6 +515,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0365-water-and-jug-problem](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0743-network-delay-time](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1302-deepest-leaves-sum/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -728,6 +730,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0226-invert-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
+| [1302-deepest-leaves-sum](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1302-deepest-leaves-sum/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -742,6 +745,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0226-invert-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
+| [1302-deepest-leaves-sum](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1302-deepest-leaves-sum/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
