@@ -501,6 +501,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0365-water-and-jug-problem](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0743-network-delay-time](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1302-deepest-leaves-sum/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1367-linked-list-in-binary-tree/) | Medium |
@@ -519,6 +520,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0365-water-and-jug-problem](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0743-network-delay-time](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1302-deepest-leaves-sum/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -738,6 +740,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1302-deepest-leaves-sum/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1367-linked-list-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -755,6 +758,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1302-deepest-leaves-sum/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1367-linked-list-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
