@@ -132,6 +132,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0228-summary-ranges](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0228-summary-ranges/) | Easy |
 | [0318-maximum-product-of-word-lengths](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0318-maximum-product-of-word-lengths/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
@@ -573,6 +574,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
