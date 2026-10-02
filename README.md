@@ -275,6 +275,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -576,6 +577,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
@@ -611,6 +613,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0113-path-sum-ii](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -875,6 +878,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
