@@ -281,6 +281,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | [0211-design-add-and-search-words-data-structure](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0318-maximum-product-of-word-lengths/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0394-decode-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0434-number-of-segments-in-a-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0434-number-of-segments-in-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -320,6 +321,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
+| [0394-decode-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
@@ -674,6 +676,7 @@ Made with ❤️ by [PARTH-JADAV20](https://github.com/PARTH-JADAV20)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0394-decode-string](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PARTH-JADAV20/Leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
